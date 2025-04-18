@@ -211,12 +211,12 @@ with open('data/loans2.txt', 'r') as file2:
     file2_contents = file2.read()
     print(file2_contents)
 
-'''
 with open('data/loans3.txt', 'r') as file3:
     file3_line = file3.readlines()                  # gives the number of lines
     # print(file3_line)
     # print(file3_line[0].strip())                  # strip() removed whitespace or remove newline character (\n)
     # print(file3_line[1])
+'''
 
 
 '''
